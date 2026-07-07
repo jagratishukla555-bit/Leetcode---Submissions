@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
