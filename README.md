@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0056-merge-intervals) |
+| [0238-product-of-array-except-self](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
