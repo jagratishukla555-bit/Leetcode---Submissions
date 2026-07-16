@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
