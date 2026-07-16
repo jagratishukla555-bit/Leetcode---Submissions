@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/jagratishukla555-bit/Leetcode---Submissions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
